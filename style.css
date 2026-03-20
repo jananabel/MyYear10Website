@@ -5,7 +5,7 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family: Arial, sans-serif;
+    font-family: Arial, system-ui;
     box-sizing: border-box;
 }
 
@@ -16,7 +16,7 @@ img {
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
-    background-image: url('images/techquitybanner-1130x160.png');
+    background-image: url('images/Banner.png');
     height: 25vh;
     background-size: cover;
     background-position: center;
@@ -39,7 +39,7 @@ img {
     color: white;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(106, 139, 182);
 }
 
 /* Three column grid with a nice big gap */
@@ -55,7 +55,7 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(106, 139, 182);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
@@ -71,10 +71,11 @@ img {
 }
 
 
-/* Styling for a footer section to take a bit of spcae at the bottom of the page */
+/* Styling for a footer section to take a bit of space at the bottom of the page */
 .footer{
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(106, 139, 182);
     color: white;
     text-align: right;
     padding: 3em 3em;
 }
+/* having a lobotomy right now */
